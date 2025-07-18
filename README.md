@@ -51,3 +51,8 @@ pip install pandas numpy scikit-learn nltk
 Step 4: Download NLTK stopwords
 python -c "import nltk; nltk.download('stopwords')"
 
+Step 5: Run the model (example from script)
+from logith_nlp_model import train_and_evaluate_model
+train_and_evaluate_model()
+
+
