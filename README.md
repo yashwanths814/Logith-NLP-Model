@@ -39,15 +39,15 @@ With cybercrime complaints surging from 26,049 in 2019 to over 1.5 million in 20
 
 
 ## 🚀 How to Run
-# Step 1: Clone the repository
+Step 1: Clone the repository
 git clone https://github.com/yashwanths814/Logith-NLP-Model
 
-# Step 2: Navigate to the project folder
+Step 2: Navigate to the project folder
 cd Logith-NLP-Model
 
-# Step 3: Install dependencies
+Step 3: Install dependencies
 pip install pandas numpy scikit-learn nltk
 
-# Step 4: Download NLTK stopwords
+Step 4: Download NLTK stopwords
 python -c "import nltk; nltk.download('stopwords')"
 
